@@ -1,0 +1,30 @@
+
+.navcontainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+.navcartcontainer {
+  margin-left: 1020px
+}
+.mainContainer{
+  display: flex;
+  flex-direction: row;
+  gap: 61px;
+  flex-wrap: wrap;
+  padding: 68px;
+  
+}
+.cardbutton{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.cartsection {
+  display: flex;
+    flex-direction: row;
+}
+.spinner-container-loading{
+  position: absolute;
+    top: 252px;
+    left: 778px;
+}
